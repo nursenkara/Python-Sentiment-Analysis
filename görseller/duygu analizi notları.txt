@@ -1,0 +1,17 @@
+Günümüzde internet ağları ve sosyal medya kullanımı, insanların başka kişi ya da kurumlar
+hakkındaki görüşlerini kolay ve açık şekilde ifade edebilmesine ve yorumlamasına imkân
+sağlamıştır. Bu imkânın giderek yaygınlaşması ile büyüyen zengin bir içerik ortaya çıkmaktadır.
+Bunun sonucunda internetten elde edilen büyük verinin analiz edilerek anlamlı bilgiye
+dönüştürülmesi ve kullanılması son yıllarda yoğun olarak çalışılan bir konudur. Bu bağlamda, son
+on yılda, sosyal medya içeriğini analiz etmek için yapılan çalışmalar hızlı bir artış göstermiş ve
+netnografi çalışmalarından (Kozinets, 2009; Hine, 2005) fikir madenciliğine (Dave vd., 2003) ve
+doğal dil işlemeye (Nasukawa ve Yi, 2003) kadar çok sayıda yöntem önerilmiştir. Duygu analizi
+ise büyük veri içindeki öznel bilginin sistematik olarak analiz edilmesini sağlayan bir doğal dil işleme yöntemidir. Metin madenciliği ve hesaplamalı dilbilim araçlarını kullanarak,
+araştırmacıların metin içindeki duyguları belirlemelerine, duygu kategorilerine göre
+sınıflandırmalarına ve kategorilerin duygusal polaritelerini bulmalarına yardımcı olur (Arazy ve
+Woo, 2007; Jacobson, 2009). 
+Duygu analizi çalışmaları her ne kadar popüler olsa da geliştirilen algoritmalar ve kütüphaneler
+ele alındığında, İngilizce üzerine yapılan çalışmalar ön plandadır ve farklı dillerin analizine imkân
+sağlayan yöntemlerin ve kütüphanelerin daha fazla gelişmeye ihtiyacı vardır. Bu motivasyondan
+yola çıkılarak, bu çalışma ile Türkçe duygu analizi literatürü incelenecektir. Çalışmanın temel
+amacı, Türkçe metinlerde duygu analizi üzerine son dönemlerde yapılan çalışmaların kapsamını ve genişliğini göstermek, bulgularını özetlemek ve mevcut literatürdeki boşlukları belirlemektir.
